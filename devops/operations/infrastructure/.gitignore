@@ -1,0 +1,13 @@
+# Compiled files
+*.tfstate
+*.tfstate.d
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+# Env file
+.env
+
+# Credentials
+account.json
