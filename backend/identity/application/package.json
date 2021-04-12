@@ -1,0 +1,22 @@
+{
+  "name": "@identity/application",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@identity/domain": "0.0.0",
+    "@identity/persistence": "0.0.0",
+    "@atlantis-lab/nestjs-map-errors-interceptor": "0.1.30",
+    "@nestjs/common": "7.0.13",
+    "@nestjs/core": "7.0.13",
+    "@nestjs/microservices": "7.0.13",
+    "@nestjs/testing": "7.0.13",
+    "@nestjs/typeorm": "7.1.5",
+    "argon2": "0.27.1",
+    "class-transformer": "0.4.0",
+    "class-validator": "0.13.1",
+    "rxjs": "6.6.7",
+    "typeorm": "0.2.29",
+    "uuid": "3.4.0"
+  }
+}
