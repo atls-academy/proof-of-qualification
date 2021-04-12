@@ -1,6 +1,6 @@
 ## ОГЛАВЛЕНИЕ
-- [devops](https://github.com/Atls-Academy/test/devops)
-- [backend](https://github.com/Atls-Academy/test/backend)
+- [devops](https://github.com/atls-academy/test/tree/master/devops)
+- [backend](https://github.com/atls-academy/test/tree/master/backend)
 
 ## ВВОДНОЕ ЗАДАНИЕ
 
