@@ -1,0 +1,32 @@
+{
+  "name": "@identity/service",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "server-scripts start",
+    "build": "server-scripts build",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@monstrs/server-scripts": "0.1.5",
+    "@types/node": "14.14.37"
+  },
+  "dependencies": {
+    "@atlantis-lab/nestjs-bus": "0.2.25",
+    "@atlantis-lab/nestjs-map-errors-interceptor": "0.1.30",
+    "@grpc/proto-loader": "0.5.5",
+    "@identity/application": "0.0.0",
+    "@identity/domain": "0.0.0",
+    "@identity/persistence": "0.0.0",
+    "@nestjs/common": "7.0.13",
+    "@nestjs/core": "7.0.13",
+    "@nestjs/microservices": "7.0.13",
+    "@protos/identity": "0.0.0",
+    "class-validator": "0.13.1",
+    "grpc": "1.24.6",
+    "reflect-metadata": "0.1.13",
+    "rxjs": "6.6.7",
+    "typescript": "3.9.7"
+  }
+}

@@ -1,15 +1,14 @@
-# DevOps
+## ОГЛАВЛЕНИЕ
+- [devops](https://github.com/Atls-Academy/test/devops)
+- [backend](https://github.com/Atls-Academy/test/backend)
 
-## ТЕСТОВОЕ ЗАДАНИЕ
+## ВВОДНОЕ ЗАДАНИЕ
 
 - сделать форк
-- завести [домен](https://bit.ly/2HzMymc)
-- завести Google Cloud (там 14 дневный триал)
-- завести app.terraform.io
-- настроить CI
-- делегировать домен на Google Cloud DNS средствами Terraform'a
-- настроить кластер Kubernetes
-- настроить инфраструктуру
-- поднять pod с менеджером сертификатов (cert-manager)
+- настроить окружение проекта используя yarn workspaces
+- починить запуск проекта:
+    - делая коммиты на каждый найденный баг
+    - коммиты необходимо оформлять в соответствии с [конвенцией](http://conventionalcommits.org/)
+- по завершении отправьте ссылку на свой форк в отклике на вакансию
 
-#### ВОПРОСЫ МОЖНО ЗАДАТЬ ЧЕРЕЗ [ISSUES](https://github.com/Atlantis-Academy/test/issues/new)
+#### ВОПРОСЫ МОЖНО ЗАДАТЬ ЧЕРЕЗ [DISCUSSIONS](https://github.com/atls-academy/test/discussions/new)

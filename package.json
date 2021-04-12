@@ -1,3 +1,6 @@
 {
-  "license": "BSD 3-Clause"
+  "license": "BSD 3-Clause",
+  "devDependencies": {
+    "@atlantis-lab/actl": "^0.4.37"
+  }
 }

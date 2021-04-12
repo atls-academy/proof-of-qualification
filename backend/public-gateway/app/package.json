@@ -1,0 +1,33 @@
+{
+  "name": "@public-gateway/app",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "server-scripts start",
+    "build": "server-scripts build",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@monstrs/nestjs-dataloader": "0.1.4",
+    "@monstrs/oathkeeper-auth": "0.1.0",
+    "@nestjs/common": "7.0.13",
+    "@nestjs/core": "7.0.13",
+    "@nestjs/graphql": "7.0.15",
+    "@nestjs/microservices": "7.0.13",
+    "@nestjs/platform-express": "7.0.13",
+    "apollo-server-express": "2.13.1",
+    "@protos/interfaces": "0.0.0",
+    "@public-gateway/identity": "0.0.0",
+    "apollo-server-core": "2.21.1",
+    "dataloader": "2.0.0",
+    "graphql": "14.6.0",
+    "reflect-metadata": "0.1.13",
+    "rxjs": "6.6.7"
+  },
+  "devDependencies": {
+    "@monstrs/server-scripts": "0.1.5",
+    "@types/node": "14.14.37",
+    "typescript": "3.9.7"
+  }
+}

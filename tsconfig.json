@@ -1,0 +1,8 @@
+{
+  "extends": "@atlantis-lab/tsconfig/tsconfig.base.json",
+  "include": ["backend/**/**/*"],
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "target": "ES2018"
+  }
+}
