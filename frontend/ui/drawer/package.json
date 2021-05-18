@@ -1,0 +1,26 @@
+{
+  "name": "@ui/drawer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@ui/button": "0.0.0",
+    "@ui/icons": "0.0.0",
+    "@ui/link": "0.0.0",
+    "emotion": "10.0.27",
+    "next": "9.4.4"
+  },
+  "dependencies": {
+    "events": "3.0.0",
+    "framer-motion": "1.6.15",
+    "global": "4.4.0",
+    "react-dom": "16.13.1",
+    "react-motion": "0.5.2",
+    "react-scrolllock": "4.0.1"
+  },
+  "dependencies": {
+    "@emotion/styled": "^10.0.0",
+    "react": "16.14.0",
+    "styled-system": "^5.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ui/layout",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@emotion/styled": "^10.0.0",
+    "@types/styled-system": "^5.1.0",
+    "styled-system": "^5.1.0"
+  }
+}
